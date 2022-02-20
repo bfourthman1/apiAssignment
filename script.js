@@ -1,5 +1,5 @@
 
-const baseURL = "http://hp-api.herokuapp.com/api/characters"
+const baseURL = "https://hp-api.herokuapp.com/api/characters"
 
 function getCharactersList() {
 
